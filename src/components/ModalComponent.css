@@ -1,0 +1,15 @@
+.modal-body {
+  height: 750px !important;
+}
+
+.modal-size {
+  display: block;
+  max-width: 1700px !important;
+  padding-left: 0px;
+}
+
+.halfModal {
+  display: inline-block;
+  height: 700px;
+  width: 830px;
+}
